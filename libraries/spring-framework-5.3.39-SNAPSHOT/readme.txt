@@ -1,5 +1,9 @@
 Spring Framework version 5.3.39-SNAPSHOT
 =====================================================================================
+Download
+https://repo.spring.io/ui/native/snapshot/org/springframework/spring/5.3.39-SNAPSHOT/
+
+
 
 To find out what has changed since earlier releases, see the release notes at
 https://github.com/spring-projects/spring-framework/releases.
